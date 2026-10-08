@@ -6,7 +6,9 @@ MexEE Elective 2: Data Science and Machine Learning
 Batangas State University, Alangilan Campus
 1st Semester, AY 2026-2027
 
+---
 ## Members
+---
 
 | Name | Student Number | Section |
 |---|---|---|
@@ -15,6 +17,7 @@ Batangas State University, Alangilan Campus
 
 ---
 ## Notebook links
+---
 
 | Chapter | Member 1 | Member 2 |
 |---|---|---|
@@ -114,6 +117,5 @@ Yes, I used an AI tool to help me comprehend and gather the key points of the ch
 ---
 McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.
 VanderPlas, J. Python Data Science Handbook.
-Any other page or article you used.
 
 ---
