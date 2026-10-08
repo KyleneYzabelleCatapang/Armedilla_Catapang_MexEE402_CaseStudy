@@ -30,6 +30,9 @@ Batangas State University, Alangilan Campus
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
 you and what surprised you. Not what the library does, but what you understood.
 
+CHAPTER 1-3
+Chapters 1–3 taught me that data must first be cleaned, organized, loaded, and understood before it can be properly analyzed. I learned how to identify data types, explore a dataset, and handle missing values, duplicates, irrelevant features, and noisy data to improve data quality. What surprised me was how much the preparation and cleaning of data can affect the accuracy and reliability of the results.
+
 ## Errors we found
 
 List any mistake you found in the original notebooks, and the correct version.
