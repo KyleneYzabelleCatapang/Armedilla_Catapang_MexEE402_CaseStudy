@@ -13,6 +13,7 @@ Batangas State University, Alangilan Campus
 | Armedilla, Christian Joseph | 22-02038 | MEXE-4103 |
 | Catapang, Kylene Yzabelle M. | 22-02838 | MEXE-4103 |
 
+---
 ## Notebook links
 
 | Chapter | Member 1 | Member 2 |
@@ -25,8 +26,9 @@ Batangas State University, Alangilan Campus
 | Ch8 | [link](https://colab.research.google.com/drive/1r9rqCpJkln5E0wFyV1QtCbk36SctJhim?usp=sharing) | [link](https://colab.research.google.com/drive/1ysVB5A4QdksXo1G0ProbouS0uskg-RNW?usp=sharing) |
 | Ch9 | [link](https://colab.research.google.com/drive/1bffFPNb5XINXSxpKsP_JoDa6PcdvudqI?usp=sharing) | [link](https://colab.research.google.com/drive/1gRtgKHAuyDvDRvtkMa-ODPX0eg0C5iTV?usp=sharing) |
 
+---
 ## What we learned
-
+---
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
 you and what surprised you. Not what the library does, but what you understood.
 
@@ -60,7 +62,7 @@ Chapter 8 taught me how to organize different preprocessing steps into one pipel
 
 Chapter 9 taught me how to apply different preprocessing techniques together to prepare real-world data for analysis. I learned that data often needs several steps, such as cleaning missing values, transforming, reducing, discretizing, and encoding, before it becomes useful. What surprised me was that preprocessing is an iterative process because the data may still need to be checked and adjusted after each step.
 
-
+---
 
 **CHAPTER 1-3**
 
@@ -90,21 +92,27 @@ I learned from this chapter that a preprocessing pipeline makes the data cleaner
 
 I learned from this chapter that in order to properly use real-world data for analysis or machine learning, it must undergo a number of preprocessing steps. I was aware that preprocessing might need to be repeated or modified, and that missing values, extraneous features, and various data types must be handled carefully. After cleaning, transforming, and organizing the Titanic data, I was surprised to see how much it changed, making patterns like survival differences by passenger class and gender easier to comprehend.
 
+---
 ## Errors we found
-
+---
 List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
+---
 ## Note on AI tools
+---
 
 Say whether you used an AI tool, and what for. This is not a penalty.
 Hiding it is.
 
 <p align = "justify">
 Yes, I used an AI tool to help me comprehend and gather the key points of the chapters. Additionally, I utilized it to arrange my ideas and refine the phrasing of my responses while maintaining the concepts derived from the lessons.
-
+  
+---
 ## References
-
+---
 McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.
 VanderPlas, J. Python Data Science Handbook.
 Any other page or article you used.
+
+---
