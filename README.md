@@ -105,6 +105,7 @@ There are real ones in there. Finding them earns points.
 Say whether you used an AI tool, and what for. This is not a penalty.
 Hiding it is.
 
+---
 <p align = "justify">
 Yes, I used an AI tool to help me comprehend and gather the key points of the chapters. Additionally, I utilized it to arrange my ideas and refine the phrasing of my responses while maintaining the concepts derived from the lessons.
   
