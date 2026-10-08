@@ -58,6 +58,36 @@ Chapter 8 taught me how to organize different preprocessing steps into one pipel
 
 Chapter 9 taught me how to apply different preprocessing techniques together to prepare real-world data for analysis. I learned that data often needs several steps, such as cleaning missing values, transforming, reducing, discretizing, and encoding, before it becomes useful. What surprised me was that preprocessing is an iterative process because the data may still need to be checked and adjusted after each step.
 
+
+
+**CHAPTER 1-3**
+
+This chapter taught me that data needs to be checked and cleaned before it can be properly used for analysis. I learned that missing, incorrect, or unnecessary information can affect the results. What surprised me was that even a large dataset can still have hidden problems, so I realized that the quality of the data is just as important as the way we analyze it.
+
+**CHAPTER 4**
+
+This chapter taught me that feature engineering can make raw data more useful by creating new information from existing data. I learned that techniques like binning, interaction features, polynomial features, and encoding can help reveal patterns and make data easier for machine learning models to understand. What surprised me was that simply combining or transforming existing data, such as temperature and lemonade sales, can provide new insights that are not obvious from the original data.
+
+**CHAPTER 5**
+
+This chapter taught me that scaling and normalization help make different features easier to compare by putting them on a similar range. I understood that features with larger values can affect a model more, so adjusting their scale can make the results fairer. What surprised me was that scaling is not always necessary because its importance depends on the type of data and the algorithm being used.
+
+**CHAPTER 6**
+
+This chapter taught me that outliers are unusual values that can affect the accuracy of data analysis and lead to misleading results. I learned that they can be detected using methods like Z-score and IQR and handled by removing, limiting, or transforming the values. What surprised me was that one unusual value, such as 100 when most values are around 10–22, can have a noticeable effect on how the data is understood.
+
+**CHAPTER 7**
+
+This chapter taught me that feature selection helps choose the most useful information from a dataset while removing features that may not contribute much to the prediction. I learned that correlation can show how variables are related, while filter, wrapper, and embedded methods can help identify important features. What surprised me was that having more features does not always mean better results because unnecessary information can make a model less effective.
+
+**CHAPTER 8**
+
+This chapter taught me that a preprocessing pipeline organizes different data preparation steps into one process, making the data cleaner and ready for machine learning. I understood that steps like filling missing values and scaling features can be done in a consistent order instead of manually doing each one. What surprised me was that the same pipeline can be reused on new data, helping keep the preprocessing consistent and reducing errors.
+
+**CHAPTER 9**
+
+This chapter taught me that real-world data needs several preprocessing steps before it can be properly used for analysis or machine learning. I understood that missing values, unnecessary features, and different types of data need to be handled carefully, and that preprocessing may need to be repeated or adjusted. What surprised me was how much the Titanic data could change after cleaning, transforming, and organizing it, making patterns like survival differences by gender and passenger class easier to understand.
+
 ## Errors we found
 
 List any mistake you found in the original notebooks, and the correct version.
