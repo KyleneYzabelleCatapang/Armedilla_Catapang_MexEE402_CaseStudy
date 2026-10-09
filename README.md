@@ -81,7 +81,7 @@ I learned from this chapter that by placing various features on a similar range,
 
 **CHAPTER 6**
 
-I learned from this chapter that outliers are odd values that can skew data analysis and produce false conclusions. I discovered that techniques like Z-score and IQR can be used to identify them, and that they can be addressed by eliminating, restricting, or changing the values. I was suprised by the fact that a single anomalous value, like 100, can significantly alter how the data is interpreted when the majority of values are between 10 and 22.
+I learned from this chapter that outliers are odd values that can misrepresent data analysis and produce false conclusions. I discovered that techniques like Z-score and IQR can be used to identify them, and that they can be addressed by eliminating, restricting, or changing the values. I was suprised by the fact that a single anomalous value, like 100, can significantly alter how the data is interpreted when the majority of values are between 10 and 22.
 
 **CHAPTER 7**
 
