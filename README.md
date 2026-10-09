@@ -24,7 +24,7 @@ Batangas State University, Alangilan Campus
 | Ch1_2_3 |  | [link](https://colab.research.google.com/drive/1_B9wLwjPpk6uGSJa5EUPkj092zaQyj_a?usp=sharing) |
 | Ch4 ||   [link](https://colab.research.google.com/drive/1NYu2nvromXxidFULInNbhk3ul4GycThm?usp=sharing) |
 | Ch5 |  | [link](https://colab.research.google.com/drive/1eQiloAONIT1xFOOQgHzYxi3Qw2jfHdyp?usp=sharing) |
-| Ch6 | [link](https://colab.research.google.com/drive/1YlaT8pjDOgLvTCjxNS28uf5GDpkjAuIT?usp=sharing) | [link](https://colab.research.google.com/drive/1PJ23nrrlR8d6OppxGF-EuvD9riMjh8lu?usp=sharing) |
+| Ch6 | [link](https://colab.research.google.com/drive/1YlaT8pjDOgLvTCjxNS28uf5GDpkjAuIT?usp=sharing) |  |
 | Ch7 | [link](https://colab.research.google.com/drive/1KDHVs3HNpQCOX9KWq0ERBQzFd1x0cel7?usp=sharing) |  |
 | Ch8 | [link](https://colab.research.google.com/drive/1r9rqCpJkln5E0wFyV1QtCbk36SctJhim?usp=sharing) |  |
 | Ch9 | [link](https://colab.research.google.com/drive/1bffFPNb5XINXSxpKsP_JoDa6PcdvudqI?usp=sharing) |  |
