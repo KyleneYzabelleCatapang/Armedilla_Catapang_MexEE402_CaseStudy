@@ -98,8 +98,9 @@ I learned from this chapter that in order to properly use real-world data for an
 ---
 ## Errors we found
 ---
-List any mistake you found in the original notebooks, and the correct version.
-There are real ones in there. Finding them earns points.
+<p align ="center">
+<img src="https://github.com/user-attachments/assets/a148d381-8166-44da-b2d1-b24fa8de5d0c" height="200" width="1000">
+
 
 The Z-score method did not detect 100 as an outlier because its Z-score was only around 2.62, which is within the ±3 threshold. However, the IQR method successfully identified 100 as an outlier, showing that different detection methods can produce different results.
 
@@ -107,10 +108,6 @@ The Z-score method did not detect 100 as an outlier because its Z-score was only
 ## Note on AI tools
 ---
 
-Say whether you used an AI tool, and what for. This is not a penalty.
-Hiding it is.
-
----
 <p align = "justify">
 Yes, I used an AI tool to help me comprehend and gather the key points of the chapters. Additionally, I utilized it to arrange my ideas and refine the phrasing of my responses while maintaining the concepts derived from the lessons.
 
