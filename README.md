@@ -103,7 +103,14 @@ I learned from this chapter that in order to properly use real-world data for an
 
 The Z-score method did not detect 100 as an outlier because its Z-score was only around 2.62, which is within the ±3 threshold. However, the IQR method successfully identified 100 as an outlier, showing that different detection methods can produce different results.
 
+**Corrected Version**
+
 To fix this, we can lower the Z-score threshold to 2.5 (using data[np.abs(z_scores) > 2.5]) so that 100 is correctly detected. After detecting outliers, we can handle them using three main methods: capping and flooring by replacing extreme values with boundary limits using data.clip(), applying a log transformation with np.log() to reduce their impact, or completely removing them using boolean indexing if they are confirmed errors.
+
+<p align ="center">
+<img src="https://github.com/user-attachments/assets/5c613d5d-040f-45db-a0bf-6b4e473d2ea4" height="200" width="1000">
+
+This works since 2.615>2.5, the value will be flagged as an outlier, assuming z_scores contains the Z-score for that data point.
 
 ---
 ## Note on AI tools
